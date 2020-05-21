@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "studentName": "Harry",
+    "grades":{
+    "potions": 2,
+    "DADA": 3
+    }
+  },
+  {
+    "id": 2,
+    "studentName": "Harry",
+    "grades":{
+    "potions": 3,
+    "DADA": 5
+    }
+  },
+  {
+    "id": 3,
+    "studentName": "Draco",
+    "grades":{
+    "potions": 4,
+    "DADA": 4
+    }
+  }
+]
